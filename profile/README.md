@@ -34,11 +34,6 @@ This GitHub organization serves as a collaborative space for
 
 ---
 
-## 🏁 **Completed Projects**
-- *No completed projects yet — stay tuned as the lab grows!*
-
----
-
 ## 🌐 **More Information**
 - **Department Homepage**: https://gsc.yju.ac.kr  
 - **Faculty Lead**: Prof. Youngchul Jung (Department Chair)
