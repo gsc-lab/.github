@@ -1,43 +1,23 @@
-# 🌍 Welcome to **GSC-Lab** @ Yeungjin University! 🌟  
+# 🌍 GSC-LAB
 
-### About **Global System Convergence (GSC)**
-The **Global System Convergence (GSC)** department at Yeungjin University is an innovative academic program launched in 2024.  
-We focus on cultivating **Machine Learning (ML) and AI engineering talent** through a balanced curriculum that integrates software engineering, data science, embedded systems, and global communication skills.
+영진전문대학교 **Global System Convergence** 학과의 GitHub입니다. 수업 자료, 학생 팀·개인 프로젝트를 관리합니다.
 
-Our department aims to develop engineers who can **apply machine learning to real-world systems**, work effectively in international environments, and contribute immediately on the global stage—especially in leading Japanese tech and AI companies.
+## 리포지토리 안내
 
----
+| 분류 | 찾는 방법 |
+|---|---|
+| 📚 수업 자료 | [`course-` 리포](https://github.com/orgs/gsc-lab/repositories?q=course-+in%3Aname+archived%3Afalse) |
+| 🏆 캡스톤디자인 | [`topic:capstone`](https://github.com/orgs/gsc-lab/repositories?q=topic%3Acapstone) |
+| 👥 팀 프로젝트 | [`topic:team-project`](https://github.com/orgs/gsc-lab/repositories?q=topic%3Ateam-project) |
+| 🙋 개인 프로젝트 | [`topic:personal-project`](https://github.com/orgs/gsc-lab/repositories?q=topic%3Apersonal-project) |
+| 🗄️ 지난 학기 | [Archived](https://github.com/orgs/gsc-lab/repositories?q=archived%3Atrue) |
 
-## 🎯 **Our Mission**
-To nurture globally competitive **ML/AI engineers** who combine
-- Strong coding and system implementation skills  
-- Practical ML/DL problem-solving capabilities  
-- Understanding of industry-standard development workflows  
-- Cross-cultural communication skills for global career pathways  
+특정 학생의 활동 모아보기: `topic:std-<학번>` 검색
 
-Many of our students advance to major AI/IT companies in Japan, contributing to next-generation intelligent systems.
+## 학생이라면
 
----
+리포 사용 규칙(네이밍, 커밋 규칙, 공개범위)은 **[dept-guide](https://github.com/gsc-lab/dept-guide)** 를 먼저 읽어주세요. 주차 과제는 별도 조직 [gsc-lab-classroom](https://github.com/gsc-lab-classroom)에서 진행됩니다.
 
-## 📌 **Purpose of This Repository**
-This GitHub organization serves as a collaborative space for
-1. Sharing and archiving student projects and research outcomes  
-2. Building practical ML/DL systems from data collection to training and deployment  
-3. Exploring industry-aligned AI challenges and engineering practices  
-4. Fostering collaboration with ML engineers, researchers, and developers around the world  
+## 문의
 
----
-
-## 🚀 **Current Projects**
-- **[GSC Autodrive](https://github.com/gsc-lab/course-autodrive)**  
-  Autonomous driving project including dataset collection, deep learning model training, Jetson-based inference, and hardware integration.
-
----
-
-## 🌐 **More Information**
-- **Department Homepage**: https://gsc.yju.ac.kr  
-- **Faculty Lead**: Prof. Youngchul Jung (Department Chair)
-
----
-
-Let’s build intelligent systems that move the world forward — together. 💡✨
+담당 교수: ycjung@yju.ac.kr
