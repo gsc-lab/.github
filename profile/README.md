@@ -1,6 +1,6 @@
-# 🌍 GSC-LAB
+# AI+X 선도 학과! 글로벌시스템융합과! GSC-LAB
 
-영진전문대학교 **Global System Convergence** 학과의 GitHub입니다. 수업 자료, 학생 팀·개인 프로젝트를 관리합니다.
+영진전문대학교 **글로벌시스템융합과(Global System Convergence)** 의 GitHub입니다. 수업 자료, 학생 팀·개인 프로젝트를 관리합니다.
 
 ## 리포지토리 안내
 
